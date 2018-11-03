@@ -5,28 +5,29 @@ import Layout from "../components/layout"
 export default () => (
   <Layout>
   <div style={{ margin: `3rem auto`, maxWidth: 600 }}>
-    <h1>Richard Hamming on Luck</h1>
+    <h1>I am just a finite being living in an infinite universe</h1>
     <div>
       <p>
-        From Richard Hamming’s classic and must-read talk, “
-        <a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html">
-          You and Your Research
-        </a>
-        ”.
+        by Ariel P.
       </p>
       <blockquote>
         <p>
-          There is indeed an element of luck, and no, there isn’t. The prepared
-          mind sooner or later finds something important and does it. So yes, it
-          is luck.{" "}
+          Indeed, I was born into this world with a limited time. <br/>But I always wonder why it has to be in a place of infinity?{" "}<br/>
           <em>
-            The particular thing you do is luck, but that you do something is
-            not.
+            Where the time time has no beginning and end?<br/>
+            Where the universe is so vast that cannot be fathom by human minds?<br/>
+            Where the people are unsure if multidimentional universe is true?<br/>
+            Where counting of numbers is limitless?<br/><br/>
+          </em>
+          <strong>But overthink no more</strong><br/><br/>
+          <em>
+            I am just a finite being. Not a perfect human with limited time.<br/>
+            Embrace life and have fun enduring the hardships. Do whatever I want. To continue learning and to always quit when bored. Enjoy life to the fullest! and to always remind myself to put my feet on the ground for I am just a finite being.
           </em>
         </p>
       </blockquote>
     </div>
-    <p>Posted April 09, 2011</p>
+    <p>Posted November 03, 2018</p>
   </div>
   </Layout>
 )
