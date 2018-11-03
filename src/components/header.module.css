@@ -1,0 +1,10 @@
+.header{
+    background: rgba(255, 255, 255, 0.15);
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white !important;
+}
+.headertop{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
