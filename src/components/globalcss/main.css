@@ -1,14 +1,6 @@
 body{
 	margin: 0 auto;
-	background-image: url("../../static/hero-bg.jpg");
 	background-position: center fixed;
 	background-repeat: no-repeat;
-	color: white !important;
-	
-}
-.navbar-light .navbar-brand h2{
-	color: white;
-}
-.navbar-light .navbar-nav .nav-link{
-	color: white !important;
+	background-color: #bdbaa4 !important;
 }
